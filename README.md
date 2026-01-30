@@ -7,8 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://davidrigueira.dev/" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/badge/Portfolio-davidrigueira.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1c1917" /></a><a href="https://www.x.com/DavidRigueira" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/DavidRigueira?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.twitch.tv/riguirules" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Follow-@DavidRigueira-0891b2?style=for-the-badge&logo=x&logoColor=white&labelColor=1c1917" /></a><a href="https://www.twitch.tv/riguirules" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/riguirules?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
