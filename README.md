@@ -1,10 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is David Rigueira Cabrera
 ==============================================================================================================================================
 
-* 🌍  I'm based in Vigo
-* ✉️  You can contact me at [David.Rigueira@outlook.com](mailto:David.Rigueira@outlook.com)
+* 🌍  I'm based in Vigo
+* ✉️  You can contact me at [David.Rigueira@outlook.com](mailto:David.Rigueira@outlook.com)
+* 🌐  See my portfolio at [davidrigueira.dev](https://davidrigueira.dev/)
 
-<a href="https://www.x.com/DavidRigueira" target="_blank" rel="noreferrer"><img
+<a href="https://davidrigueira.dev/" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/badge/Portfolio-davidrigueira.dev-0891b2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1c1917" /></a><a href="https://www.x.com/DavidRigueira" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/DavidRigueira?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.twitch.tv/riguirules" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/riguirules?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
